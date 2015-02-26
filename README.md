@@ -1,6 +1,12 @@
 yii2-widget-affix
 =================
 
+[![Latest Stable Version](https://poser.pugx.org/kartik-v/yii2-widget-activeform/v/stable.svg)](https://packagist.org/packages/kartik-v/yii2-widget-affix)
+[![License](https://poser.pugx.org/kartik-v/yii2-widget-affix/license.svg)](https://packagist.org/packages/kartik-v/yii2-widget-affix)
+[![Total Downloads](https://poser.pugx.org/kartik-v/yii2-widget-affix/downloads.svg)](https://packagist.org/packages/kartik-v/yii2-widget-affix)
+[![Monthly Downloads](https://poser.pugx.org/kartik-v/yii2-widget-affix/d/monthly.png)](https://packagist.org/packages/kartik-v/yii2-widget-affix)
+[![Daily Downloads](https://poser.pugx.org/kartik-v/yii2-widget-affix/d/daily.png)](https://packagist.org/packages/kartik-v/yii2-widget-affix)
+
 Extends [Yii Menu widget](https://github.com/yiisoft/yii2/blob/master/framework/widgets/Menu.php). This widget offers a [scrollspy](http://getbootstrap.com/javascript/#scrollspy) and [affixed](http://getbootstrap.com/javascript/#affix) enhanced navigation (upto 2-levels) to highlight sections and secondary sections in each page. The affix widget can be used to generate both the:
 
 - **Sidebar Menu:** Displays the scrollspy/affix navigation menu as a sidebar, and/or
